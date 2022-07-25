@@ -321,6 +321,9 @@
 # 11069 KK6RQ DMR-310551
 11069	area52.zapto.org	41000
 
+# 20222 HELLAS-FRN 20222
+20222 P25-FRN.ddns.net  41000
+
 # 21909 PRIDE - Multi-mode HUB & Reflector
 21909	hub.kimberlychase.com	41000
 
